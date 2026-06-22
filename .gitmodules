@@ -1,0 +1,33 @@
+[submodule "portfolio-frontend"]
+	path = portfolio-frontend
+	url = https://github.com/MuhammadShoaib20/portfolio-frontend.git
+[submodule "portfolio-backend"]
+	path = portfolio-backend
+	url = https://github.com/MuhammadShoaib20/portfolio-backend.git
+[submodule "Ecommerce-backend"]
+	path = Ecommerce-backend
+	url = https://github.com/MuhammadShoaib20/Ecommerce-backend.git
+[submodule "Ecommerce-frontend"]
+	path = Ecommerce-frontend
+	url = https://github.com/MuhammadShoaib20/Ecommerce-frontend.git
+[submodule "react-practice-challenges"]
+	path = react-practice-challenges
+	url = https://github.com/MuhammadShoaib20/react-practice-challenges.git
+[submodule "React-Challenges-Level-02"]
+	path = React-Challenges-Level-02
+	url = https://github.com/MuhammadShoaib20/React-Challenges-Level-02.git
+[submodule "React-Challenges-level-03"]
+	path = React-Challenges-level-03
+	url = https://github.com/MuhammadShoaib20/React-Challenges-level-03.git
+[submodule "React_Level_04"]
+	path = React_Level_04
+	url = https://github.com/MuhammadShoaib20/React_Level_04.git
+[submodule "Portfolio-Website"]
+	path = Portfolio-Website
+	url = https://github.com/MuhammadShoaib20/Portfolio-Website.git
+[submodule "Chat-App-Backend"]
+	path = Chat-App-Backend
+	url = https://github.com/MuhammadShoaib20/Chat-App-Backend.git
+[submodule "Chat-App-Frontend"]
+	path = Chat-App-Frontend
+	url = https://github.com/MuhammadShoaib20/Chat-App-Frontend.git
